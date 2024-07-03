@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Splash Screen */
+.splash {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.splash img {
+    width: 80%;
+    max-width: 80%;
+    height: auto;
+}
+
+/* Dashboard */
+.dashboard {
+    text-align: center;
+    padding: 2em;
+}
+
+.dashboard .menu {
+    margin-top: 2em;
+}
+
+.title {
+    text-align: center;
+}
+
+.dashboard .btn {
+    display: block;
+    padding: 1em 2em;
+    margin: 0.5em 1em;
+    background-color: #840353;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5em;
+}
+
+/* About Page */
+.about {
+    text-align: center;
+    padding: 2em;
+}

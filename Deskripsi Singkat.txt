@@ -1,0 +1,19 @@
+Pembuatan Kartu AR dengan Tema Bunga untuk Pemula
+Pembuatan kartu Augmented Reality (AR) dengan tema bunga adalah proyek yang menarik dan relatif mudah untuk pemula. Berikut adalah langkah-langkah sederhana yang dapat diikuti:
+
+Pemilihan Objek 3D:
+
+Website Library: Kunjungi situs seperti Sketchfab untuk mencari model bunga 3D. Situs ini menawarkan banyak model gratis yang dapat diunduh.
+Unduh Model: Pilih dan unduh model bunga yang  sukai. Pastikan model tersebut dalam format yang didukung oleh software AR, seperti .glb atau .obj.
+Pembuatan Konten AR:
+
+Gunakan AR.js: AR.js adalah library open-source yang mudah digunakan untuk membuat aplikasi AR berbasis web. Pengguna hanya perlu pengetahuan dasar tentang HTML dan JavaScript.
+Integrasi Model 3D: Impor model bunga ke dalam proyek AR.js. Atur posisi, skala, dan rotasi model agar sesuai dengan desain kartu yang telah dibuat.
+Desain Kartu Fisik:
+
+Grafis Kartu: Desain kartu dengan gambar atau simbol yang dapat dikenali oleh aplikasi AR, seperti marker ‘hiro’ yang sudah ada dalam AR.js.
+Cetak Kartu: Cetak desain kartu yang telah dibuat dengan kualitas tinggi agar marker dapat dikenali dengan mudah oleh kamera perangkat.
+Pengujian dan Peluncuran:
+
+Pengujian: Coba scan kartu dengan aplikasi AR.js yang telah dibuat untuk memastikan model bunga muncul dengan benar.
+Bagikan Kartu: Sebarkan kartu fisik kepada teman atau keluarga dan beri tahu mereka cara memindai kartu untuk melihat model bunga dalam AR.
